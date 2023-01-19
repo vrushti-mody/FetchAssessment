@@ -1,7 +1,6 @@
 # Fetch Frontend Assessment
 <img src="https://mma.prnewswire.com/media/1309683/Fetch_Rewards_Logo.jpg?p=facebook" style="align:center" width="30%" alt="Logo">
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]() 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/vrushti-mody/FetchAssessment/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/vrushti-mody/FetchAssessment)](https://github.com/vrushti-mody/FetchAssessment/issues) 
 
